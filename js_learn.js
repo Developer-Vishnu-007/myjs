@@ -2,4 +2,4 @@
  
 /* declaring the variables in 3 ways
 
-var
+var =
