@@ -1,1 +1,1 @@
-// My javascript
+// My javascript learnings
