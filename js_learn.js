@@ -1,3 +1,3 @@
 // My javascript learnings
-
-/* declaring the variables
+ 
+/* declaring the variables in 3
