@@ -1,1 +1,3 @@
 // My javascript learnings
+
+/* declaring
