@@ -3,3 +3,5 @@
 /* declaring the variables in 3 ways */
 
 var = 10;
+
+let =
