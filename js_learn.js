@@ -2,7 +2,7 @@
  
 /* declaring the variables in 3 ways */
 
-var = 10; #defining a variable with
+var = 10; //defining a variable with a value
 
 let = 20;
 
